@@ -44,7 +44,11 @@ header {
 }
 
 .card {
-    width: calc(100% / 3);
+    width: calc((100%*12) / 4);
     background-color: rgb(44, 44, 88);
     ;
+}
+
+.albumCover {
+    width: 100px;
 }
